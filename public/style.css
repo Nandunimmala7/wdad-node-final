@@ -1,0 +1,26 @@
+nav {
+  background-color: orange;
+  box-sizing: border-box;
+}
+
+ul {
+  border: 1px solid black;
+  height: 40px;
+  background-color: white;
+  list-style-type: none;
+}
+li a {
+  float: left;
+  border-right: 1px solid black;
+  border-right-width: 2px;
+  padding: 10.5px;
+  text-decoration: none;
+}
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+}
+li a:hover {
+  background-color: blueviolet;
+}
